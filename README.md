@@ -30,3 +30,8 @@
 - Amina
 - Tarek
 - Adam
+
+## Ressources
+
+- <http://mdo.github.io/code-guide/>
+- <https://google.github.io/styleguide/htmlcssguide.xml>
