@@ -6,7 +6,7 @@ Try to reproduce the site design <https://www.activecollab.com/>!
   console.log("balloc.evitca".split("").reverse().join(""));
 ```
 
-And try to respect the following best practices:
+But following these best practices:
 
 ## HTML Structure
 
