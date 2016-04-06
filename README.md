@@ -6,11 +6,13 @@ Try to reproduce the site design <https://www.activecollab.com/>!
   console.log("balloc.evitca".split("").reverse().join(""));
 ```
 
+And try to respect the following best practices:
+
 ## HTML Structure
 
 - Indent (see Atom)
-- `Doctype` + `<meta>` + favicon`
-- Importance comments `<!-- -->`
+- `Doctype` + `<meta>` + `favicon`
+- Importance of comments `<!-- -->`
 - Classic Tags (`id` and `class` names without spaces, etc ..)
 - HTML5 Tags, eg `<navbar>`
 - `data-src` (images), etc ..
