@@ -21,7 +21,10 @@ TODO: Example Content Structure
 
 ## Integration of CSS
 
-- Do not use it inline in the HTML tags or in the header, but in a dedicated CSS file with the meta link `<link rel="stylesheet" href="style.css" />`!
+- Do not use it inline in the HTML tags or in the header, but in a dedicated CSS file with the meta link:
+```html
+  <link rel="stylesheet" href="style.css" />
+```
 - Also look at <https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3/mettre-en-place-le-css>
 - Finish by learning basic CSS tricks: http://adamschwartz.co/magic-of-css/ bonus: `@keyframe`
 
