@@ -1,27 +1,29 @@
 # balloc.evitca
 
+Try to reproduce the site design <https://www.activecollab.com/>!
+
 ```javascript
   console.log("balloc.evitca".split("").reverse().join(""));
 ```
 
-## Structure du HTML
+## HTML Structure
 
-- Indenter (cf. Atom)
-- `Doctype` + `<meta>` + `favicon`
-- Importance des commentaires `<!-- -->`
-- Balises classiques (noms `class` et `id` sans espaces, etc..)
-- Balises HTML5, ex : `<navbar>`
-- `data-src` (images), etc..
-- Structure du contenu
+- Indent (see Atom)
+- `Doctype` + `<meta>` + favicon`
+- Importance comments `<!-- -->`
+- Classic Tags (`id` and `class` names without spaces, etc ..)
+- HTML5 Tags, eg `<navbar>`
+- `data-src` (images), etc ..
+- Content Structure
 
-## Intégration du CSS
+## Integration of CSS
 
-- Ne plus l’utiliser dans les balises html ou dans le header, mais dans un fichier css dédié avec le lien `<link rel="stylesheet" href="style.css" />`
+- Do not use it in the html tags or in the header, but in a dedicated css file with link `<link rel="stylesheet" href="style.css" />`
 - <https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3/mettre-en-place-le-css>
-- CSS de base
-- Bonus CSS : `@keyframe`
+- Basic CSS
+- Bonus CSS: `@keyframe`
 
-## Point SEO
+## SEO Point
 
 - Antoine
 - Ali Zaidi
@@ -31,7 +33,7 @@
 - Tarek
 - Adam
 
-## Ressources
+## Resources
 
 - <http://mdo.github.io/code-guide/>
 - <https://google.github.io/styleguide/htmlcssguide.xml>
