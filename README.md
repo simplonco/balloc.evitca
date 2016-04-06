@@ -13,11 +13,9 @@ But following these best practices:
 - Indent (see the Atom package https://atom.io/packages/atom-beautify and the keyboard shortcut `Alt`+`Ctrl`+`B`)
 - Don't forget to set a `<!Doctype html>`, the good `<meta>` markup and a beautiful `favicon` !
 - Importance of comments `<!-- -->` to describe your source code !
-- Remind also that the classic tags `id` and `class` names can't contain spaces and IDs have to be uniques, and CSS only contain classes.
+- Remind also that the classic tags `id` and `class` names can't contain spaces, IDs have to be uniques, and CSS only contain classes.
 - Use some cool HTML5 Tags, eg `<navbar>` or `<footer>` (<https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5>)
 - Set a `data-src`and the `alt` attributes of your images.
-
-TODO: Example Content Structure
 
 ## Integration of CSS
 
