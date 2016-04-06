@@ -6,7 +6,7 @@ Essayez de reproduire le design du site <https://www.activecollab.com/> !
   console.log("balloc.evitca".split("").reverse().join(""));
 ```
 
-Mais en respectant les bonnes pratiques suivantes :
+But following these best practices:
 
 ## Structure du HTML
 
